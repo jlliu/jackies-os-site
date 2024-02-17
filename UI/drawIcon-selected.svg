@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>drawIcon-selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,1.42108547e-14 L30,1.42108547e-14 C35.5228475,1.31963241e-14 40,4.4771525 40,10 L40,67.8562603 L40,67.8562603 L22.3847345,90.9351978 C21.379479,92.2522503 19.4968764,92.5050117 18.1798238,91.4997562 C17.9673249,91.3375639 17.7774577,91.1476967 17.6152655,90.9351978 L0,67.8562603 L0,67.8562603 L0,10 C1.10000309e-15,4.4771525 4.4771525,1.52253853e-14 10,1.42108547e-14 Z" id="path-1"></path>
+        <path d="M10,1.42108547e-14 L30,1.42108547e-14 C35.5228475,1.31963241e-14 40,4.4771525 40,10 L40,67.8562603 L40,67.8562603 L22.3847345,90.9351978 C21.379479,92.2522503 19.4968764,92.5050117 18.1798238,91.4997562 C17.9673249,91.3375639 17.7774577,91.1476967 17.6152655,90.9351978 L0,67.8562603 L0,67.8562603 L0,10 C1.10000309e-15,4.4771525 4.4771525,1.52253853e-14 10,1.42108547e-14 Z" id="path-3"></path>
+        <linearGradient x1="94.8083033%" y1="53.6201278%" x2="0.840783095%" y2="53.6201278%" id="linearGradient-5">
+            <stop stop-color="#FFC183" offset="0%"></stop>
+            <stop stop-color="#FFD13D" stop-opacity="0" offset="27.3991765%"></stop>
+            <stop stop-color="#FF2800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="drawIcon-selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle" transform="translate(45.000000, 54.500000) rotate(45.000000) translate(-45.000000, -54.500000) translate(25.000000, 7.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <path stroke="#210D3E" stroke-width="9" d="M10,-4.5 L30,-4.5 C38.0081289,-4.5 44.5,1.99187113 44.5,10 L44.5,69.3773738 L25.9618363,93.665462 C23.4486975,96.9580933 18.7421909,97.5899968 15.4495596,95.076858 C14.9183122,94.6713773 14.4436444,94.1967094 14.0381637,93.665462 L-4.5,69.3773738 L-4.5,10 C-4.5,1.99187113 1.99187113,-4.5 10,-4.5 Z"></path>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" fill="#FFE2FF" xlink:href="#path-3"></use>
+            <rect id="Rectangle-2" fill="#FFF5FF" mask="url(#mask-4)" x="0" y="68" width="40" height="22"></rect>
+            <rect fill="#FF9100" mask="url(#mask-4)" x="0" y="12" width="40" height="56"></rect>
+            <rect fill="#210D3E" mask="url(#mask-4)" x="7" y="83" width="27" height="12"></rect>
+            <rect fill="url(#linearGradient-5)" style="mix-blend-mode: screen;" mask="url(#mask-4)" x="0" y="0" width="40" height="94"></rect>
+        </g>
+    </g>
+</svg>
