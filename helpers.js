@@ -7,7 +7,7 @@ var thingsCategories = {
         subcategories: [{
             category: 'forlorn',
         }]
-        
+
       },
       {category: 'angry'},
       {category: 'happy'}]
@@ -22,4 +22,4 @@ var thingsCategories = {
 
 var tree = Arborel.parse(thingsCategories, 'subcategories');
 
-console.log(tree);
+// console.log(tree);

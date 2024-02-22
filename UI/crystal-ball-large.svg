@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="488px" height="573px" viewBox="0 0 488 573" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>crystal ball</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EFB1FF" offset="0%"></stop>
+            <stop stop-color="#FDCBFF" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="39.5159193%" fx="50%" fy="39.5159193%" r="68.0367589%" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E0F3F9" offset="32.9259924%"></stop>
+            <stop stop-color="#BDE4F1" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Time-Teller" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crystal-ball">
+            <path d="M240.126984,0 C364.189425,0 464.761905,100.536274 464.761905,224.554054 C464.761905,287.025802 439.242028,343.53921 398.054969,384.245128 C458.01805,420.638572 488,452.585139 488,480.081081 C488,531.398783 378.757479,573 244,573 C109.242521,573 0,531.398783 0,480.081081 C0,460.424598 28.469537,429.514746 85.4086111,387.351525 C42.3412721,346.441688 15.4920635,288.632226 15.4920635,224.554054 C15.4920635,100.536274 116.064543,0 240.126984,0 Z" id="Combined-Shape" fill="#FDCBFF"></path>
+            <path d="M244,573 C378.757479,573 488,531.442092 488,480.177815 C488,446.00163 441.58327,404.942359 348.74981,357 L128.768208,357 C42.9227359,415.008002 0,456.067274 0,480.177815 C0,531.442092 109.242521,573 244,573 Z" id="Oval" fill="url(#linearGradient-1)"></path>
+            <circle id="Oval" fill="url(#radialGradient-2)" cx="240.5" cy="224.5" r="224.5"></circle>
+        </g>
+    </g>
+</svg>
